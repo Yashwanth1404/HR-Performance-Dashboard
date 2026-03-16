@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Rahul Sharma",
+    "department": "Engineering",
+    "rating": 4.9
+  },
+  {
+    "name": "Priya Patel",
+    "department": "Marketing",
+    "rating": 3.8
+  }
+]
